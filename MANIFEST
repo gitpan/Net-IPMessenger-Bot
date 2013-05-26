@@ -1,0 +1,15 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+README
+cpanfile
+dist.ini
+example/hello_bot
+example/system_bot
+lib/Net/IPMessenger/Bot.pm
+lib/Net/IPMessenger/Bot/EventHandler.pm
+t/basic.t
+t/release-pod-syntax.t
