@@ -7,6 +7,7 @@ META.yml
 README
 cpanfile
 dist.ini
+example/hayashi_bot
 example/hello_bot
 example/system_bot
 lib/Net/IPMessenger/Bot.pm
