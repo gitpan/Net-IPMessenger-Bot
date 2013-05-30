@@ -24,9 +24,10 @@ no_index:
     - examples
 requires:
   Net::IPMessenger: 0.14
+  Term::ANSIColor: 0
   perl: 5.008005
 resources:
   bugtracker: https://github.com/hayajo/p5-Net-IPMessenger-Bot/issues
   homepage: https://github.com/hayajo/p5-Net-IPMessenger-Bot
   repository: https://github.com/hayajo/p5-Net-IPMessenger-Bot.git
-version: 0.03
+version: 0.04
